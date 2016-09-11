@@ -1,0 +1,22 @@
+{
+  "name": "weixin_node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "bluebird": "^3.4.6",
+    "ejs": "^2.5.2",
+    "express": "^4.14.0",
+    "heredoc": "^1.3.1",
+    "koa": "^1.2.2",
+    "raw-body": "^2.1.7",
+    "request": "^2.74.0",
+    "sha1": "^1.1.1",
+    "xml2js": "^0.4.17"
+  }
+}
